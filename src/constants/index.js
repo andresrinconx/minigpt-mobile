@@ -1,6 +1,4 @@
-export const apiKey = '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';
-// in some cases your api key maybe already expired
-// try to use a new account to create an api key
+export const apiKey = 'your api key here';
 
 export const dummyMessages = [
     {
